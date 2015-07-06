@@ -1,4 +1,4 @@
-= redmine_default_group
+= redmine_user_default_group
 
 To setup default group name go to Administration -> Plugins -> Redmine Default Group -> Configure
 
